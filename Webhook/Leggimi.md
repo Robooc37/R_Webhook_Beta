@@ -6,6 +6,4 @@ Step 3): Avviare il file.
 
 
 
-R_Webhook  Beta
-
 Ultimo Aggiornamento 28/08/2024
