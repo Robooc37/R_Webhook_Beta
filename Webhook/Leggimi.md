@@ -6,4 +6,4 @@ Step 3): Avviare il file.
 
 
 
-Ultimo Aggiornamento 28/08/2024
+Ultimo Aggiornamento: 28/08/2024
